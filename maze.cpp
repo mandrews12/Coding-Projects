@@ -1,5 +1,6 @@
 //MA - 9/18/23 - CSC212 - Assignment 2
 // maze.cpp
+// file to generate the achual maze taking input from main and header file
 
 #include <iostream>
 #include <vector>
